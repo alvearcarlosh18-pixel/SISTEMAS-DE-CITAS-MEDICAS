@@ -74,6 +74,6 @@ Se revisará el historial de GitHub para identificar quién realizó cada cambio
 
 Esta actividad nos permite comprender la importancia de la gestión de configuración en los proyectos de software. Mediante GitHub podemos trabajar en equipo, organizar la documentación, registrar modificaciones y mantener un historial que facilite la revisión y el seguimiento del proyecto.
 
-Instituto I3 – Calidad del Software (SQA)
+Calidad del Software (SQA)
 
 Proyecto académico: Sistema de Citas Médicas.
